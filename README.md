@@ -1,7 +1,7 @@
 # Convolutional Neural Network for CIFAR-10 Image Classification
 Convolutional Neural Network for image classification using the CIFAR-10 dataset.
 
-Please take a look at the pdf for an insightful explaination with figures.
+* ***Please take a look at the pdf for an insightful explaination with figures.***
 
 
 The key components and achievements of the project are summarized below:
